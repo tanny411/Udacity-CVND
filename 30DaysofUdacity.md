@@ -13,3 +13,9 @@
 	- Analysed Fourier transforms of filtered and unfiltered images
 - Started looking at the first project, Facial key point detection. Looked at transformations from the first notebook.
 
+## Day 2: 3/10/19
+-Completed Lesson 5(from 14)
+	- Learnt and played with canny edge detector
+	- Hough transformation and shape detection
+	- Looked into materials for Bias in AI
+
