@@ -3,6 +3,7 @@
 #30DaysOfUdacity #CVND
 
 ## Day 1: 2/10/19
+
 - Completed Lesson 4
 	- Day/Night image classifier from average brightness of an image
 - Finished Concepts 1-13 of Lesson 5(Convolutional Filters and Edge Detection)
@@ -14,8 +15,14 @@
 - Started looking at the first project, Facial key point detection. Looked at transformations from the first notebook.
 
 ## Day 2: 3/10/19
+
 -Completed Lesson 5(from 14)
 	- Learnt and played with canny edge detector
 	- Hough transformation and shape detection
 	- Looked into materials for Bias in AI
 
+## Day 3: 4/10/19
+
+Lesson 6 conceps 1 to 4 completed
+	- corner detection
+	- dilation and erosion
