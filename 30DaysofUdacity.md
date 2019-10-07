@@ -26,3 +26,16 @@
 Lesson 6 conceps 1 to 4 completed
 	- corner detection
 	- dilation and erosion
+
+## Day 4: 5/10/19
+
+Worked on Facial Key Point detection model Architecture. Notebook 2.
+
+## Day 5: 6/10/19
+
+Continued working on Facial Key Point detection project. Mainly Architecture defining and testing out layers.
+
+## Day 6: 7/10/19
+
+- Continued working on Facial Key Point detection project. Creatig architecture. Models don't seem to be learning well. Introduced dropout and BatchNorm.
+- FInished Lesson 6.
