@@ -44,3 +44,7 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 
 - Completed Lesson 7. Learned about ORB algorithm, including FAST and BRIEF algorithm and how ORB is scale and rotation invarient. Later learned about a more general object detection algorithm called HOG and played around with its implementation. Tried out various images and visualised intensity gradients.
 - Worked on Project-1 and its architecture. Moved my project to colab and added GPU codes. Talked with mentor to get unstuck from project architecture issues. He mentioned some interesting points. Working on those.
+
+## Day 8: 9/10/19
+
+- Finally finished Facial Key Point Detection Project. Had to Struggle with internet and colab to get it done. Submitted and waiting for amazing reviews.
