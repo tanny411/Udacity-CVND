@@ -39,3 +39,8 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 
 - Continued working on Facial Key Point detection project. Creatig architecture. Models don't seem to be learning well. Introduced dropout and BatchNorm.
 - FInished Lesson 6.
+
+## Day 7: 8/10/19
+
+- Completed Lesson 7. Learned about ORB algorithm, including FAST and BRIEF algorithm and how ORB is scale and rotation invarient. Later learned about a more general object detection algorithm called HOG and played around with its implementation. Tried out various images and visualised intensity gradients.
+- Worked on Project-1 and its architecture. Moved my project to colab and added GPU codes. Talked with mentor to get unstuck from project architecture issues. He mentioned some interesting points. Working on those.
