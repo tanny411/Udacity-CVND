@@ -48,3 +48,9 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 ## Day 8: 9/10/19
 
 - Finally finished Facial Key Point Detection Project. Had to Struggle with internet and colab to get it done. Submitted and waiting for amazing reviews. Update: Passed!!
+
+## Day 9: 10/10/19
+
+- Completed all lessons and reading to for github profile project.
+- Cleared some confusion with mentor.
+- Worked a little on my github profile.
