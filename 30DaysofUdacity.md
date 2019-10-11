@@ -54,3 +54,8 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 - Completed all lessons and reading to for github profile project.
 - Cleared some confusion with mentor.
 - Worked a little on my github profile.
+
+## Day 10: 11/10/19
+
+- Completed concepts 1-15 of Lesson 8.
+- Finished Fashion MNIST classification. Tested out various architectures.
