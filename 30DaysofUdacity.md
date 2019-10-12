@@ -59,3 +59,8 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 
 - Completed concepts 1-15 of Lesson 8.
 - Finished Fashion MNIST classification. Tested out various architectures.
+
+## Day 11: 12/10/19
+- Completed Lesson 8. Learned about feature maps and their visualizations. Deconvolution to visualize deeper layers. A very interesting video on the same: https://www.youtube.com/watch?v=ghEmQSxT6tw
+- Also learned about about multiple tehniques on feature visualization like occlusion, saliency maps, guided backprop, visualizing the feature vectors by t-SNE and PCA.
+- Part 1 Intro to Computer Vision 100%.
