@@ -64,3 +64,14 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 - Completed Lesson 8. Learned about feature maps and their visualizations. Deconvolution to visualize deeper layers. A very interesting video on the same: https://www.youtube.com/watch?v=ghEmQSxT6tw
 - Also learned about about multiple tehniques on feature visualization like occlusion, saliency maps, guided backprop, visualizing the feature vectors by t-SNE and PCA.
 - Part 1 Intro to Computer Vision 100%.
+
+## Day 12: 13/10/19
+- Recieved GitHub review, have to work on readme. Started the course of the same.
+- Watched a little from cloud computing part.
+
+## Day 13: 14/10/19
+- continued watching cloud computing part
+- watched mlcourse.ai lectures 6a,6b,8 and started solving the quiz.
+
+## Day 14: 15/10/19
+- Finished lesson 1 of advanced CNN architechtures. learned about R-CNN, fast and faster R-CNN. Looked at their implementations. Read a blog post of region proposals https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9
