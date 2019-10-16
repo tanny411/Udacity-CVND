@@ -75,3 +75,6 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 
 ## Day 14: 15/10/19
 - Finished lesson 1 of advanced CNN architechtures. learned about R-CNN, fast and faster R-CNN. Looked at their implementations. Read a blog post of region proposals https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9
+
+## Day 15: 16/10/19
+- Finished Lesson 2 of second part. Learned about YOLO object detection. Sliding window, grid, anchor boxes, IoU and Non-Maximal Suppression techniques. Looked at YOLO implementation and tested various images. Perfectly detects objects! Observed changes with various threshold levels.
