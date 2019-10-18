@@ -78,3 +78,9 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 
 ## Day 15: 16/10/19
 - Finished Lesson 2 of second part. Learned about YOLO object detection. Sliding window, grid, anchor boxes, IoU and Non-Maximal Suppression techniques. Looked at YOLO implementation and tested various images. Perfectly detects objects! Observed changes with various threshold levels.
+
+## Day 16: 17/10/19
+- Topic 1-12 of Lesson 3 RNN's. Introduction to RNNs, RNN history, applications in NLP and CV. Refreshed Feed forward network, Backpropagation. Went through calculations of derivatives by hand for a small feed forward network.
+
+## Day 17: 18/10/19
+- Completed Lesson 3 RNNs. Revised RNN, how its calculations work, backpropagation through time. Pracriced the weights update calculation using bptt for a one or more than one rnn stacked layers.
