@@ -84,3 +84,6 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 
 ## Day 17: 18/10/19
 - Completed Lesson 3 RNNs. Revised RNN, how its calculations work, backpropagation through time. Pracriced the weights update calculation using bptt for a one or more than one rnn stacked layers.
+
+## Day 18: 19/10/19
+- Completed Lesson 4 LSTMs. A great revision on the inner workings of LSTM layers and its various gates. A short overview on GRUs. Ran a simple parts of speech tagger. Learned sequence batching for RNNs. Completed a character level sequence generator. Quite an exercise on various aspects of using lstm in an architecture!
