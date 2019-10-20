@@ -87,3 +87,6 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 
 ## Day 18: 19/10/19
 - Completed Lesson 4 LSTMs. A great revision on the inner workings of LSTM layers and its various gates. A short overview on GRUs. Ran a simple parts of speech tagger. Learned sequence batching for RNNs. Completed a character level sequence generator. Quite an exercise on various aspects of using lstm in an architecture!
+
+## Day 19: 20/10/19
+- Completed Lesson 5 Hyperparameters. Learned about various types of hyperparameters. Also details and common practices for each hyperparameter tuning. For hyperparameters of RNN, got introduced to some amazing papers and posts. Will start with them soon.
