@@ -90,3 +90,9 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 
 ## Day 19: 20/10/19
 - Completed Lesson 5 Hyperparameters. Learned about various types of hyperparameters. Also details and common practices for each hyperparameter tuning. For hyperparameters of RNN, got introduced to some amazing papers and posts. Will start with them soon.
+
+## Day 20: 21/10/19
+- Working on the kaggle competition 'Alice'. Did EDA and worked on some features.
+
+## Day 21: 22/10/19
+-Finished Lesson 6 Attention. Learned about Attention mechanishm elaborately. Its application in NLP, Computer Vision and combined. Types of Attention such as Additive, Multiplicative and Sefl Attention. Laslty about Transformers. Started reading few papers of these topics, and read more about attentions starting with 'Attention is all you need'. 
