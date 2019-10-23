@@ -96,3 +96,6 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 
 ## Day 21: 22/10/19
 -Finished Lesson 6 Attention. Learned about Attention mechanishm elaborately. Its application in NLP, Computer Vision and combined. Types of Attention such as Additive, Multiplicative and Sefl Attention. Laslty about Transformers. Started reading few papers of these topics, and read more about attentions starting with 'Attention is all you need'. 
+
+## Day 22: 23/10/19
+- Worked in sentiment analysis for codemix language in semeval2020 competition. Ran some initial models.
