@@ -99,3 +99,9 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 
 ## Day 22: 23/10/19
 - Worked in sentiment analysis for codemix language in semeval2020 competition. Ran some initial models.
+
+## Day 23: 24/10/19
+- Continued working with semeval2020. Worked with variou feed forward networks and embeddings. 
+
+## Day 24: 25/10/19
+- Working on Alice competition. Figuring out features. Studying other notebooks.
