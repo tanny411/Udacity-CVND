@@ -105,3 +105,10 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 
 ## Day 24: 25/10/19
 - Working on Alice competition. Figuring out features. Studying other notebooks.
+
+## Day 25: 26/10/19
+- Working on alice competition. Doing cross validation and feature selection.
+
+## Day 26: 27/10/19
+- finished alice competition.
+- finished lesson 7 of part 2 cvnd. Started working on image captioning project.
