@@ -112,3 +112,7 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 ## Day 26: 27/10/19
 - finished alice competition.
 - finished lesson 7 of part 2 cvnd. Started working on image captioning project.
+
+## Day 27: 28/10/19
+- Continued working on image captioning project.
+- Started studying recent nlp models and huggingface library.
