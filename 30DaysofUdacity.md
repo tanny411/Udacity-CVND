@@ -116,3 +116,6 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 ## Day 27: 28/10/19
 - Continued working on image captioning project.
 - Started studying recent nlp models and huggingface library.
+
+## Day 28: 29/10/19
+- Revised LSTMs. Looked at character level sequence generator again. Trying to clear this part up before digging too deep into image captioning.
