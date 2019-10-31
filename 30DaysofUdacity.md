@@ -119,3 +119,9 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 
 ## Day 28: 29/10/19
 - Revised LSTMs. Looked at character level sequence generator again. Trying to clear this part up before digging too deep into image captioning.
+
+## Day 29: 30/10/19
+- Started building architecture for captioning project. Read the given paper. Cleared some confusion with mentor.
+
+## Day 30: 31/10/19
+- Working on the model.py file for image captioning project. Built the architecture. Working on incorporating the cnn feature vectors to the rnn. Fixing some errors. Hopefully will be able to start training tomorrow.
