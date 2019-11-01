@@ -124,4 +124,8 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 - Started building architecture for captioning project. Read the given paper. Cleared some confusion with mentor.
 
 ## Day 30: 31/10/19
+- Carried over the entire project to colab. Fixed directory settings, downloaded dataset(images and captions), and cloned cocoapi.
 - Working on the model.py file for image captioning project. Built the architecture. Working on incorporating the cnn feature vectors to the rnn. Fixing some errors. Hopefully will be able to start training tomorrow.
+
+## Day 31: 1/11/19
+- Architecture complete. Initial training of the network going on. Read the paper `show, attend and tell`. Borrwed ideas from both `show and tell` papers.
