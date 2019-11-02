@@ -129,3 +129,8 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 
 ## Day 31: 1/11/19
 - Architecture complete. Initial training of the network going on. Read the paper `show, attend and tell`. Borrwed ideas from both `show and tell` papers.
+
+## Day 32: 2/11/19
+- Completed sampling/prediction function for image captioning. Completed training with few different hyperparameters. Tested the models for inference. Model predicts meaningful and quite revelant captions.
+- Training the model with the final selected parameters for the last time.
+- Read a paper on Bert for pre-traning. Took notes on various techniques mentioned in the paper.
