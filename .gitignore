@@ -1,1 +1,3 @@
 *.pt
+Projects/Project2 Image Captioning/encoder-*.pkl
+Projects/Project2 Image Captioning/decoder-*.pkl
