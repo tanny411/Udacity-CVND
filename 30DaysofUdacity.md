@@ -134,3 +134,6 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 - Completed sampling/prediction function for image captioning. Completed training with few different hyperparameters. Tested the models for inference. Model predicts meaningful and quite revelant captions.
 - Training the model with the final selected parameters for the last time.
 - Read a paper on Bert for pre-traning. Took notes on various techniques mentioned in the paper.
+
+## Day 33: 3/11/19
+- Finished Image captioning project. Submitted and passed!
