@@ -137,3 +137,6 @@ Continued working on Facial Key Point detection project. Mainly Architecture def
 
 ## Day 33: 3/11/19
 - Finished Image captioning project. Submitted and passed!
+
+## Day 34: 4/11/19
+- Took a break. Have an exam tomorrow.
